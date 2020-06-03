@@ -657,12 +657,12 @@
 	background-color: #FFFFFF;
 	border: 2px solid #ECECEC;
 	border-radius: 2px;
-	color: #888888;
+	color: #FFFFFF;
 	cursor: pointer;
 	font: 400 12px/29px "Open Sans", sans-serif;
 	margin: 10px 10px 0 0;
 	overflow: visible;
-	padding: 0 17px;
+	padding: 0 7px;
 	position: relative;
 	display: inline-block;
 	-webkit-transition: color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;

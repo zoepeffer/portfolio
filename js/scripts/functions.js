@@ -54,6 +54,7 @@
 	
 	
 	
+	/*
 	$('.demo-1').percentcircle();
 
 	$('.demo-2').percentcircle({
@@ -107,7 +108,7 @@
 	percentSize: '18px',
 	percentWeight: 'normal'
 	});	
-
+*/
 	
 	
 	
